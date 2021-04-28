@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[Resume](https://www.notion.so/TAEHYUN-KIM-aa4a0259ff284971bdb7d95be4d19ca0) : Notion
+
+
+
 <!--
 **wow-kim/wow-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
