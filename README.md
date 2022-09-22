@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi 👋
 ### I'm TAEHYUN KIM
 
-[Blog](https://velog.io/@wow-kim) : Velog <br>
-[Resume](https://www.notion.so/TAEHYUN-KIM-aa4a0259ff284971bdb7d95be4d19ca0) : Notion
 
 
 
